@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764393948577",
+    "project_id": "mphasisstepcounter",
+    "storage_bucket": "mphasisstepcounter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764393948577:android:d4488b4e72a753f6c5f7e0",
+        "android_client_info": {
+          "package_name": "com.example.mgauge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764393948577-t9ot8br4bnnv7ocv401obu8nifnmu93g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2onqIvpLbZor_IomkOWj2bzm80fP0RFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764393948577-t9ot8br4bnnv7ocv401obu8nifnmu93g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
